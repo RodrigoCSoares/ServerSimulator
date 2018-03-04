@@ -1,0 +1,1 @@
+This is a project made to exercise the concepts of Data Structures and Doubly Liked List. The project was programmed using C.
